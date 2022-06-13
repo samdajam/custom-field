@@ -18,9 +18,5 @@
         <attribute code="delivery_note" type="string"/>
     </extension_attributes>
 
-    <extension_attributes for="Magento\Quote\Api\Data\AddressInterface">
-        <attribute code="delivery_note" type="string"/>
-    </extension_attributes>
-
 </config>
 
