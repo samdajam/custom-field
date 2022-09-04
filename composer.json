@@ -1,4 +1,13 @@
 {
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/samdajam/custom-field"
+    }
+    ],
+    "require": {
+        "magetrend/custom-field": "dev-fixcomposer"
+    }
     "name": "magetrend/custom-field",
     "autoload": {
         "psr-4": {"Magetrend\\CustomField\\":""},
